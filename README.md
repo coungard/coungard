@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on [ISimpleLab](https://www.isimplelab.com/)
-
 ### Stats
 
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/coungard)](https://badges.pufler.dev)
